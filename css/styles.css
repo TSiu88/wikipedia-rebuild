@@ -1,4 +1,49 @@
+body{
+  margin-left: 10px;
+  margin-right: 10px;
+}
 .login{
   text-align: right;
-  margin-right: 10px;
+  
+}
+
+.container{
+  margin-left: 5px;
+  margin-right: 5px;
+  padding-right: 3px;
+}
+#logo
+{
+  text-align: center;
+  width: 150px;
+  height: 100px;
+}
+
+.sidebar{
+  font-size: 10px;
+}
+
+hr{
+  margin-top: 0.05em;
+  margin-bottom: 0.25em;
+}
+
+.nav-item{
+  font-size: 11px;
+}
+
+#tabs{
+  margin-right: 5px;
+}
+
+img {
+  width: 200px;
+  height: 200px;
+  padding: 5px;
+}
+.picwords {
+  float: left;
+}
+.right-text{
+  text-align: right;
 }

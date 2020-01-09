@@ -20,7 +20,7 @@ body{
 }
 
 .sidebar{
-  font-size: 10px;
+  font-size: 12px;
 }
 
 hr{
@@ -37,8 +37,8 @@ hr{
 }
 
 img {
-  width: 200px;
-  height: 200px;
+  width: 250px;
+  height: 310px;
   padding: 5px;
 }
 .picwords {
@@ -46,4 +46,24 @@ img {
 }
 .right-text{
   text-align: right;
+}
+.picwords2 {
+  float: right;
+}
+
+.rightpic{
+  width: 130px;
+  height: 150px;
+}
+
+#searchBar{
+  align-self: flex-end;
+}
+
+.panelbody1{
+  background-color: lightgreen;
+}
+
+#fourPanel{
+  height: 200px;
 }

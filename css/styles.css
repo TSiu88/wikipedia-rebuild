@@ -64,6 +64,11 @@ img {
   background-color: lightgreen;
 }
 
-#fourPanel{
-  height: 200px;
+.panelbody2{
+  background-color: lightskyblue;
+}
+
+.centeredText{
+  margin-top: 75px;
+  margin-bottom: 10px;
 }

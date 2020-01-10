@@ -68,7 +68,18 @@ img {
   background-color: lightskyblue;
 }
 
-.centeredText{
-  margin-top: 75px;
-  margin-bottom: 10px;
+.panelBody3{
+  background-color: lavender;
+}
+
+#featuredPic{
+  float: left;
+  height: 175px;
+  width: 175px;
+}
+
+.icons{
+  float: left;
+  width: 50px;
+  height: 50px;
 }

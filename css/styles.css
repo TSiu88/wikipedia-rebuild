@@ -43,6 +43,10 @@ hr{
   margin-right: 5px;
 }
 
+.well-sm{
+  background-color: #f9f9f9;
+}
+
 img {
   width: 250px;
   height: 310px;
@@ -84,8 +88,16 @@ img {
 
 #featuredPic{
   float: left;
-  height: 175px;
-  width: 175px;
+  height: 250px;
+  width: 250px;
+}
+
+.centeredText{
+    text-align: center;
+}
+
+.verticalCenter{
+  padding: 20px;
 }
 
 .icons{

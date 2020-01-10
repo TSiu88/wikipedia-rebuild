@@ -74,6 +74,16 @@ img {
   align-self: flex-end;
 }
 
+.panelHeading1{
+  background: #cef2e0;
+  margin: 5px;
+  height: 35px;
+  padding-inline: 5px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: #a3bfb1;
+}
+
 .panelbody1{
   background-color: #f5fffa;
 }

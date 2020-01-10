@@ -2,9 +2,6 @@ body{
   margin-left: 10px;
   margin-right: 10px;
 }
-.login{
-  text-align: right;
-}
 
 /*
 .container{
@@ -13,16 +10,15 @@ body{
   padding-right: 3px;
 }
 */
-
 #logo
 {
-  text-align: center;
   width: 150px;
-  height: 100px;
+  height: 150px;
 }
 
 .sidebar{
   font-size: 12px;
+  margin-left: 10px;
 }
 
 hr{
@@ -30,8 +26,17 @@ hr{
   margin-bottom: 0.25em;
 }
 
+.login{
+  text-align: right;
+}
+
+#tiny{
+  width: 20px;
+  height: 20px;
+}
+
 .nav-item{
-  font-size: 11px;
+  font-size: 12px;
 }
 
 #tabs{
@@ -43,12 +48,15 @@ img {
   height: 310px;
   padding: 5px;
 }
+
 .picwords {
   float: left;
 }
+
 .right-text{
   text-align: right;
 }
+
 .picwords2 {
   float: right;
 }
@@ -63,15 +71,15 @@ img {
 }
 
 .panelbody1{
-  background-color: lightgreen;
+  background-color: #f5fffa;
 }
 
 .panelbody2{
-  background-color: lightskyblue;
+  background-color: #f5faff;
 }
 
 .panelBody3{
-  background-color: lavender;
+  background-color: #ddcef2;
 }
 
 #featuredPic{

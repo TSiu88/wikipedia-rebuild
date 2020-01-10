@@ -4,14 +4,16 @@ body{
 }
 .login{
   text-align: right;
-  
 }
 
+/*
 .container{
   margin-left: 5px;
   margin-right: 5px;
   padding-right: 3px;
 }
+*/
+
 #logo
 {
   text-align: center;
